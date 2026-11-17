@@ -13,4 +13,4 @@ First-year CSBS Engineering student passionate about **IoT hardware prototyping,
 
 ### 📫 Connect With Me
 * **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/kiruba-shankar-vj)
-* **Email:** kirubashankar@gmail.com
+* **Email:** vjkirubashankar@gmail.com
