@@ -1,4 +1,4 @@
-# Hi there, I'm [Kiruba Shankar V J] 👋
+# Hi there, I'm Kiruba Shankar V J
 
 First-year CSBS Engineering student passionate about **IoT hardware prototyping, C/C++ programming, and No-Code/Low-Code automation**.
 
